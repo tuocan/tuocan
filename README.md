@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://cdn.discordapp.com/avatars/982378459898728518/cbc0766cf4efeadd48fa6d04caf8e986.webp?size=240" width=200/>
-</div>
 
 <h1>About Me🐧</h1>
 <ul>
