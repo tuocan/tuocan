@@ -4,7 +4,7 @@
 
 <h1>About Me🐧</h1>
 <ul>
-  <li>Toucan<img src="https://user-images.githubusercontent.com/123590545/221527562-47086121-5536-4f2d-824f-bfa29f8ef3cd.png" width=35</li>
+  <li>Toucan <img src="https://user-images.githubusercontent.com/123590545/221530411-02e45a2d-fb45-4963-9603-e8bb985fcadc.png" width=15</li>
   <li>bird🐦</li>
   <li>chronically online 📱</li>
   <li>tou-cannibal (i eat birds)😈</li>
