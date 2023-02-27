@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/123590545/221535860-38db5319-4cc5-4652-b775-f9d187f2caf8.png" width=250>
 </div>
-
+<p align="center"><i>"Get Pornhub on School Chromebook. Jerk off in Class" - IrwinTech 2023</i></p>
 <h1>About Me🐧</h1>
 <ul>
   <li>Toucan <img src="https://user-images.githubusercontent.com/123590545/221530411-02e45a2d-fb45-4963-9603-e8bb985fcadc.png" width=15</li>
