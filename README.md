@@ -1,16 +1,33 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://cdn.discordapp.com/avatars/982378459898728518/cbc0766cf4efeadd48fa6d04caf8e986.webp?size=240" width=200/>
+</div>
 
-<!--
-**tuocan/tuocan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>About Me🐧</h1>
+<ul>
+  <li>Toucan<img src="https://user-images.githubusercontent.com/123590545/221527562-47086121-5536-4f2d-824f-bfa29f8ef3cd.png" width=35</li>
+  <li>bird🐦</li>
+  <li>chronically online 📱</li>
+  <li>tou-cannibal (i eat birds)😈</li>
+</ul>
+<h1>Projects</h1>
+<ul>
+  <li>Coming Soon...™️</li>
+</ul>
+<h1>Music</h1>
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ul6jkelbsdntmxag6ug6qrzqqi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+</div>
+<ul>
+  <li>Follow me on <a href="https://open.spotify.com/user/31ul6jkelbsdntmxag6ug6qrzqqi?si=916f8de21bef4697">Spotify</a></li>
+  <li>My <a href="https://www.last.fm/user/tocn">LastFM</a></li>
+</ul>
+<p align="center">My Topster (yes i like brockhampton (🤓):</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/123590545/221523075-6381250f-3770-437b-87e9-92a370265d05.png" width=500/>
+</div>
+<h1>Hobbies</h1>
+<ul>
+  <li>Working on my website 💻 (Coming Soon...™️)</li>
+  <li>Gaming 🎮</li>
+  <li>Talking on discord 🤓</li>
+</ul>
