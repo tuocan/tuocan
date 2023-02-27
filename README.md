@@ -1,3 +1,7 @@
+<h1 align="center">Toucan</h1>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/123590545/221535860-38db5319-4cc5-4652-b775-f9d187f2caf8.png" width=250>
+</div>
 
 <h1>About Me🐧</h1>
 <ul>
