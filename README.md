@@ -4,6 +4,7 @@
 </div>
 <p align="center"><i>"Get Pornhub on School Chromebook. Jerk off in Class" - IrwinTech 2023</i></p>
 <h1>About Me🐧</h1>
+![](https://komarev.com/ghpvc/?username=tuocan)
 <ul>
   <li>Toucan <img src="https://user-images.githubusercontent.com/123590545/221530411-02e45a2d-fb45-4963-9603-e8bb985fcadc.png" width=15</li>
   <li>bird🐦</li>
